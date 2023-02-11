@@ -9,6 +9,7 @@
 3. [String](https://github.com/Chanok203/Compro2-2565-T2/tree/master/src/main/java/String)
 4. [Array2D](https://github.com/Chanok203/Compro2-2565-T2/tree/master/src/main/java/Array2D)
 5. [Class Programming](https://github.com/Chanok203/Compro2-2565-T2/tree/master/src/main/java/ClassProgramming)
+6. [Inheritance](https://github.com/Chanok203/Compro2-2565-T2/tree/master/src/main/java/Inheritance)
 
 ## ผู้เขียน
 

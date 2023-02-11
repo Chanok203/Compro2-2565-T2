@@ -37,7 +37,7 @@ class Bus {
         if (this.isActive) {
             System.out.println("Active");
         } else {
-            System.out.println("Inactivate");
+            System.out.println("Inactive");
         }
     }
 }
