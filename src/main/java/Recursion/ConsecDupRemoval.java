@@ -27,8 +27,8 @@ public class ConsecDupRemoval {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-//        String str = scan.next();
-        String str = "abbcc";
+        String str = scan.next();
+//        String str = "abbcc";
         String result = (new ConsecDupRemoval()).dupRemove(str);
         System.out.print(result);
     }
